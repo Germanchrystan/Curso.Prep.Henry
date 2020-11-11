@@ -1,0 +1,47 @@
+body{
+	background: #503143;
+}
+
+.ContenedorInicio{
+	border: solid 5px black;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	width:100%;
+	background: #79ad9f;
+}
+
+.Inicio{
+	font-family: 'Playfair Display';
+	text-align: center;
+}
+
+.ContenedorImg{
+	display: flex;
+	justify-content: center;
+}
+
+
+.Imagen{
+	display: flex;
+	margin:10px;
+	width: 150px;
+	justify-content: center;
+	border: solid 5px black;
+	border-radius: 10000px;
+}
+
+.Contenedor{
+	font-family: 'Playfair Display';
+	background: #79ad9f;
+	display: flex;
+	flex-direction: row;
+	width:100%;
+	justify-content: space-around;
+	border: solid 5px black;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+
+.elemento{
+	width: 50%;
+}

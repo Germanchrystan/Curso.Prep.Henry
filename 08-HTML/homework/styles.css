@@ -1,0 +1,63 @@
+body{
+	background-image: url("https://lamejorpizzeria.com/wp-content/uploads/2015/10/Los-Campeones-2.jpg");
+}
+
+a{
+	text-align: center;
+	color:red;
+}
+
+
+.divClass{
+	margin:10px;
+	width: 40%;
+	text-align: center;
+	color:cornsilk;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	border: dotted 5px white;
+
+}
+
+
+.divCLass h1{
+	color:white;
+}
+
+#spanId{
+	size: 18px;
+	margin:50px;
+}
+
+
+#thirdDiv{
+	height: 600px;
+	width: 500px;
+	background-color: cornsilk;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px;
+	padding-bottom: 90px;
+	border: solid 5px blue;
+}
+
+#thirdDiv ul{
+	text-align: center;
+	list-style-image: url('pizza.png');
+}
+
+#thirdDiv ul img{
+	width: 400px;
+}
+
+.curriculum{
+	margin:5px;
+	padding: 5px;
+	text-align: center;	
+	margin-left: auto;
+	margin-right: auto;
+	background-color: aliceblue;
+	width: 40%;
+	border: solid 5px blue;
+}
